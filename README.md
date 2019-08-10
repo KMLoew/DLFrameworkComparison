@@ -1,7 +1,7 @@
 Author: Kevin M. Loew
 Contact: kevin.m.loew@gmail.com
 
-Last Modified: july 23, 2019
+Last Modified: July 23, 2019
 
 This repository contains my analysis of the Kaggle Intel Image Classification dataset. 
 
