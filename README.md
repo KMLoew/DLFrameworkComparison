@@ -5,7 +5,7 @@ Last Modified: July 23, 2019
 
 This repository contains my analysis of the Kaggle Intel Image Classification dataset. 
 
-The jupyter notebooks analyzes the data (download at kaggle link below) to compare the TensorFlow and PyTorch frameworks fro building a model as well as implementing transfer learning.
+The jupyter notebooks analyzes the data to compare the TensorFlow and PyTorch frameworks fro building a model as well as implementing transfer learning.
 
 
 I used a conda enviroment to avoid jupyter kernel issues from virtualenv. To setup this enviroment use:
